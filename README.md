@@ -1,5 +1,5 @@
 # Group Name
-Hackademia
+S2IR
 
 # Project Title
 Attendance Rate and Its Influence on Final Grades
@@ -57,4 +57,5 @@ The project utilizes a simple classification model to categorize students based 
 ### How to?
 - To train the model use "student_performance_trainer.ipynb" this is jupyter notebook file it run the whole program. This program first import dataset from the data/student_performance.csv file and train the model after train it will create and save model to model/attendance_rate_and_its_infulence_on_final_grades.pkl
 - To evaluate the student performance, use "student_performance.ipynb". This notebook allows you to run the prediction program, which prompts you to input a student's attendance rate. Based on this input, the program will predict the student's academic performance.
+- Also student_performance.py can be use as an app to predict student academic performance which is made based on student_performance.ipynb. To run `python student_performance.py`
 
