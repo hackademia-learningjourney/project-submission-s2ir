@@ -1,13 +1,37 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uMEKVAIb)
-Project Submission for Learning Journey Participants
+# Group Name
+Hackademia
 
-IMPORTANT NOTE:
+# Project Title
+Attendance Rate and Its Influence on Final Grades
 
-1. Include Group's Name as your file submission
-2. Include a README.md file with following description:
-   a. Group Name
-   b. Project Title
-   c. Group Members
-   d. Project Description
-   i. Project idea and approach
-   ii. Tech stack used (eg. Libaries, functionalities, packages, modules, etc.)
+# Group Members
+- Sujan Thapa
+- Rahul Thapa
+- Ishwor Thapa
+- Sujan Pun
+
+# Project Description
+
+## Project Idea and Approach
+This project investigates the relationship between student attendance rates and final grades. The main goal is to analyze the strength of the connection between high attendance and better academic performance. By classifying students into four groups—"High Achievers," "Average," "Below Average," and "Struggling Students"—the project seeks to uncover patterns in attendance that correlate with academic outcomes. These insights can help educators identify at-risk students and enhance overall performance.
+
+The study used quantitative methods, focusing on a dataset containing the attendance rates and final grades of 13 students. Various statistical analyses, including descriptive statistics, correlation analysis, and linear regression, were performed to determine the relationship between attendance and final grades.
+
+## Tech Stack Used
+- **Data analysis tools**: Python
+- **Libraries and Packages**:
+  - `pandas`: Data manipulation and analysis
+  - `scikit-learn`: Machine learning and classification models
+  - `numpy`: Numerical computations
+  - `matplotlib`: Data visualization
+  - `seaborn`: Statistical data visualization
+  - `scipy`: Advanced statistical functions
+  - `jupyter`: Interactive computing environment
+- **Functionalities**:
+  - Descriptive statistics (mean, standard deviation)
+  - Pearson correlation coefficient analysis
+  - Linear regression modeling
+  - Scatter plot visualization
+
+The project utilizes a simple classification model to categorize students based on their academic performance and attendance rates, providing insights into the positive relationship between attendance and academic success.
+
