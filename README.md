@@ -53,6 +53,7 @@ The project utilizes a simple classification model to categorize students based 
 - **readme.md**: simple readme.md file
 - **requirements.txt**: file lists Python project dependencies, allowing easy installation of necessary packages with specified versions via pip.
 - **.gitignore**: to prevent unnecessary files, like virtual environments and temporary files, from being tracked and uploaded to GitHub.
+- **FinalReport.pdf**: report file. 
 
 ### How to?
 - To train the model use "student_performance_trainer.ipynb" this is jupyter notebook file it run the whole program. This program first import dataset from the data/student_performance.csv file and train the model after train it will create and save model to model/attendance_rate_and_its_infulence_on_final_grades.pkl
